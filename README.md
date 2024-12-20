@@ -28,7 +28,7 @@ projetos_portfolio/
 ├── projeto1/
 ├── projeto2/
 └── projeto3/
-
+```
 
 ### 📫 Como me encontrar
 
