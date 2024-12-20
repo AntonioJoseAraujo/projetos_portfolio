@@ -1,16 +1,34 @@
-# Olá, sou Antonio Jose de Araújo 👋
+# Projetos Portfólio
 
-Estudante de Python | Automação
+Este repositório contém uma coleção de projetos desenvolvidos para demonstração de habilidades e aprendizado.
 
-### 📚 Sobre mim
+## 📋 Descrição
 
-Sou apaixonado por programação e automação. Atualmente, estou focado em aprender Python e aplicar meu conhecimento em projetos práticos.
+Você encontrará diferentes tipos de projetos e desafios, cada um demonstrando uma habilidade específica ou uso de uma tecnologia.
 
-### 🌟 Projetos Populares
+## 🚀 Como Usar
 
-- **[desafios_scrapy](https://github.com/AntonioJoseAraujo/desafios_scrapy)**: Desafios usando Scrapy.
-- **[desafios_selenium](https://github.com/AntonioJoseAraujo/desafios_selenium)**: Desafios usando Selenium.
-- **[projetos_portfolio](https://github.com/AntonioJoseAraujo/projetos_portfolio)**: Portfólio de Projetos.
+1. Clone este repositório:
+    ```sh
+    git clone https://github.com/AntonioJoseAraujo/projetos_portfolio.git
+    ```
+
+2. Navegue até a pasta do projeto desejado:
+    ```sh
+    cd projetos_portfolio/nome_do_projeto
+    ```
+
+3. Siga as instruções específicas de cada projeto dentro do repositório.
+
+## 📂 Estrutura do Projeto
+
+```plaintext
+projetos_portfolio/
+├── README.md
+├── projeto1/
+├── projeto2/
+└── projeto3/
+
 
 ### 📫 Como me encontrar
 
