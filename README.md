@@ -5,6 +5,7 @@ Este repositório contém uma coleção de projetos desenvolvidos para demonstra
 ## 📋 Descrição
 
 Você encontrará diferentes tipos de projetos e desafios, cada um demonstrando uma habilidade específica ou uso de uma tecnologia.
+Alguns desses projetos precisa do ambiente virtual ativo nesse caso eu coloquei meu nome em um ambiente virtual para ajudar a testar os projetos.
 
 ## 🚀 Como Usar
 
