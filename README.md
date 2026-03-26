@@ -1,37 +1,63 @@
-# Projetos Portfólio
+# 🗂️ Portfólio de Projetos — Antônio José de Araújo
 
-Este repositório contém uma coleção de projetos desenvolvidos para demonstração de habilidades e aprendizado.
+> Repositório com projetos práticos desenvolvidos durante meu aprendizado em Python, com foco em automação, web scraping e integração de sistemas.
 
-## 📋 Descrição
+---
 
-Você encontrará diferentes tipos de projetos e desafios, cada um demonstrando uma habilidade específica ou uso de uma tecnologia.
-Alguns desses projetos precisa do ambiente virtual ativo nesse caso eu coloquei meu nome em um ambiente virtual para testar os projetos.
+## 🤖 Projetos
 
-## 🚀 Como Usar
+### 📸 Bot de Curtida no Instagram
+Automação que acessa o perfil do Instagram, busca um usuário específico e curte e comenta no último post publicado.
 
-1. Clone este repositório:
-    ```sh
-    git clone https://github.com/AntonioJoseAraujo/projetos_portfolio.git
-    ```
+- **Tecnologias:** Python, Selenium
+- **Conceitos:** Automação web, manipulação de elementos DOM, login automatizado
 
-2. Navegue até a pasta do projeto desejado:
-    ```sh
-    cd projetos_portfolio/nome_do_projeto
-    ```
+---
 
-3. Siga as instruções específicas de cada projeto dentro do repositório.
+### 📧 Automação de Envio de E-mails
+Script que envia e-mails personalizados para uma lista de contatos, com suporte a anexos e mensagens customizadas.
 
-## 📂 Estrutura do Projeto
+- **Tecnologias:** Python, smtplib, email
+- **Conceitos:** Automação de comunicação, leitura de arquivos, envio em massa
 
-```plaintext
-projetos_portfolio/
-├── README.md
-├── projeto1/
-├── projeto2/
-└── projeto3/
+---
+
+### 🕷️ Coleta de Dados com Web Scraping
+Automação que varre múltiplas páginas web coletando dados estruturados e exportando para CSV ou JSON.
+
+- **Tecnologias:** Python, Scrapy, Requests
+- **Conceitos:** Web scraping, parsing de HTML, exportação de dados
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+
+---
+
+## 🚀 Como executar
+```bash
+# Clone o repositório
+git clone https://github.com/AntonioJoseAraujo/projetos_portfolio.git
+cd projetos_portfolio
+
+# Instale as dependências
+pip install -r requirements.txt
+
+# Execute o projeto desejado
+python nome_do_projeto.py
 ```
 
-### 📫 Como me encontrar
+---
 
-- [LinkedIn](https://www.linkedin.com/in/antonio-jose-de-araujo/)
-- [E-mail](dev.antonioaraujo@gmail.com)
+## 👤 Sobre mim
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIP — Ribeirão Preto/SP.
+Apaixonado por automação e desenvolvimento back-end com Python.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-j-araujo)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=wix&logoColor=white)](https://devantonioaraujo.wixsite.com/antonioaraujo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.antonioaraujo@gmail.com)
